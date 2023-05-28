@@ -1,0 +1,98 @@
+[2023-05-26 15:32:53] Text: Undefined variable $prefix | File: /var/www/test-site.loc/vendor/wfm/View.php | Line: 21
+=================
+[2023-05-26 15:43:24] Text: file not found /var/www/test-site.loc/app/views/Index/index.php, 500 | File: /var/www/test-site.loc/vendor/wfm/View.php | Line: 24
+=================
+[2023-05-26 16:21:08] Text: View not found /var/www/test-site.loc/app/views/layout/auth.php, 500 | File: /var/www/test-site.loc/vendor/wfm/View.php | Line: 34
+=================
+[2023-05-26 16:22:52] Text: View not found /var/www/test-site.loc/app/views/layouts/main.php, 500 | File: /var/www/test-site.loc/vendor/wfm/View.php | Line: 34
+=================
+[2023-05-26 16:25:06] Text: View not found /var/www/test-site.loc/app/views/layouts/main.php, 500 | File: /var/www/test-site.loc/vendor/wfm/View.php | Line: 34
+=================
+[2023-05-26 16:25:46] Text: View not found /var/www/test-site.loc/app/views/layouts/main.php, 500 | File: /var/www/test-site.loc/vendor/wfm/View.php | Line: 34
+=================
+[2023-05-26 16:26:29] Text: View not found /var/www/test-site.loc/app/views/layouts/main.php, 500 | File: /var/www/test-site.loc/vendor/wfm/View.php | Line: 34
+=================
+[2023-05-27 11:55:35] Text: Class "wfm\DB" not found | File: /var/www/test-site.loc/vendor/wfm/Model.php | Line: 16
+=================
+[2023-05-27 12:05:07] Text: Class "wfm\DB" not found | File: /var/www/test-site.loc/vendor/wfm/Model.php | Line: 16
+=================
+[2023-05-27 12:05:33] Text: Cannot assign app\models\Index to property wfm\Controller::$model of type string | File: /var/www/test-site.loc/vendor/wfm/Controller.php | Line: 20
+=================
+[2023-05-27 12:05:47] Text: Cannot assign app\models\Index to property wfm\Controller::$model of type string | File: /var/www/test-site.loc/vendor/wfm/Controller.php | Line: 20
+=================
+[2023-05-27 12:07:36] Text: Undefined array key "admin_prefix" | File: /var/www/test-site.loc/vendor/wfm/Controller.php | Line: 24
+=================
+[2023-05-27 12:08:21] Text: Undefined variable $model | File: /var/www/test-site.loc/app/controllers/IndexController.php | Line: 17
+=================
+[2023-05-27 13:52:35] Text: Page not found! | File: /var/www/test-site.loc/vendor/wfm/Router.php | Line: 50
+=================
+[2023-05-27 13:54:24] Text: Page not found! | File: /var/www/test-site.loc/vendor/wfm/Router.php | Line: 50
+=================
+[2023-05-27 13:55:43] Text: Page not found! | File: /var/www/test-site.loc/vendor/wfm/Router.php | Line: 50
+=================
+[2023-05-27 13:57:03] Text: Page not found! | File: /var/www/test-site.loc/vendor/wfm/Router.php | Line: 50
+=================
+[2023-05-27 13:58:28] Text: Call to undefined method app\controllers\LoginController::getModel() | File: /var/www/test-site.loc/vendor/wfm/Router.php | Line: 37
+=================
+[2023-05-27 13:59:30] Text: Call to undefined method app\controllers\LoginController::getModel() | File: /var/www/test-site.loc/vendor/wfm/Router.php | Line: 37
+=================
+[2023-05-27 13:59:31] Text: Call to undefined method app\controllers\LoginController::getModel() | File: /var/www/test-site.loc/vendor/wfm/Router.php | Line: 37
+=================
+[2023-05-27 14:00:31] Text: File not found /var/www/test-site.loc/app/views/Login/index.php, 500 | File: /var/www/test-site.loc/vendor/wfm/View.php | Line: 29
+=================
+[2023-05-27 14:01:28] Text: File not found /var/www/test-site.loc/app/views/Login/index.php, 500 | File: /var/www/test-site.loc/vendor/wfm/View.php | Line: 29
+=================
+[2023-05-27 14:01:31] Text: File not found /var/www/test-site.loc/app/views/Login/index.php, 500 | File: /var/www/test-site.loc/vendor/wfm/View.php | Line: 29
+=================
+[2023-05-27 14:04:41] Text: Call to a member function getDatabase() on null | File: /var/www/test-site.loc/vendor/wfm/View.php | Line: 43
+=================
+[2023-05-27 14:04:57] Text: Call to a member function getDatabase() on null | File: /var/www/test-site.loc/vendor/wfm/View.php | Line: 43
+=================
+[2023-05-27 14:07:09] Text: Call to a member function find() on null | File: /var/www/test-site.loc/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Line: 1026
+=================
+[2023-05-27 14:07:40] Text: Call to a member function find() on null | File: /var/www/test-site.loc/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Line: 1026
+=================
+[2023-05-27 14:08:37] Text: Call to a member function find() on null | File: /var/www/test-site.loc/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Line: 1026
+=================
+[2023-05-27 14:09:24] Text: Call to a member function find() on null | File: /var/www/test-site.loc/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Line: 1026
+=================
+[2023-05-27 14:09:36] Text: Call to a member function find() on null | File: /var/www/test-site.loc/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Line: 1026
+=================
+[2023-05-27 14:11:05] Text: Call to a member function find() on null | File: /var/www/test-site.loc/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Line: 1026
+=================
+[2023-05-27 14:11:09] Text: Call to a member function find() on null | File: /var/www/test-site.loc/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Line: 1026
+=================
+[2023-05-27 14:11:45] Text: Undefined variable $model | File: /var/www/test-site.loc/app/views/Reg/index.php | Line: 3
+=================
+[2023-05-27 14:13:41] Text: Controller app\controllers\RegController not found! | File: /var/www/test-site.loc/vendor/wfm/Router.php | Line: 48
+=================
+[2023-05-27 16:04:20] Text: Call to undefined method app\models\Register::getLabels() | File: /var/www/test-site.loc/vendor/wfm/Model.php | Line: 38
+=================
+[2023-05-27 16:15:24] Text: Call to undefined method app\models\Register::getLabels() | File: /var/www/test-site.loc/vendor/wfm/Model.php | Line: 38
+=================
+[2023-05-27 16:45:17] Text: foreach() argument must be of type array|object, string given | File: /var/www/test-site.loc/app/views/Register/index.php | Line: 36
+=================
+[2023-05-27 18:00:17] Text: syntax error, unexpected token "}" | File: /var/www/test-site.loc/app/controllers/RegisterController.php | Line: 42
+=================
+[2023-05-27 18:23:30] Text: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'yii2.dev@gmail.com' for key 'user.email' | File: /var/www/test-site.loc/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Line: 206
+=================
+[2023-05-27 18:37:28] Text: foreach() argument must be of type array|object, string given | File: /var/www/test-site.loc/app/views/layouts/main.php | Line: 44
+=================
+[2023-05-27 18:43:17] Text: Undefined global variable $_SESSION | File: /var/www/test-site.loc/app/views/Login/index.php | Line: 13
+=================
+[2023-05-27 18:43:31] Text: Undefined global variable $_SESSION | File: /var/www/test-site.loc/app/views/Login/index.php | Line: 13
+=================
+[2023-05-27 18:43:32] Text: Undefined global variable $_SESSION | File: /var/www/test-site.loc/app/views/Login/index.php | Line: 13
+=================
+[2023-05-27 18:44:01] Text: Undefined global variable $_SESSION | File: /var/www/test-site.loc/app/controllers/LoginController.php | Line: 18
+=================
+[2023-05-27 18:54:19] Text: Undefined global variable $_SESSION | File: /var/www/test-site.loc/app/controllers/LoginController.php | Line: 20
+=================
+[2023-05-27 18:54:49] Text: Undefined global variable $_SESSION | File: /var/www/test-site.loc/app/controllers/LoginController.php | Line: 20
+=================
+[2023-05-27 19:18:14] Text: Undefined variable $user | File: /var/www/test-site.loc/app/models/Login.php | Line: 17
+=================
+[2023-05-27 19:32:01] Text: Undefined global variable $_SESSION | File: /var/www/test-site.loc/app/views/layouts/main.php | Line: 39
+=================
+[2023-05-27 19:39:37] Text: Undefined global variable $_SESSION | File: /var/www/test-site.loc/app/views/layouts/main.php | Line: 6
+=================
